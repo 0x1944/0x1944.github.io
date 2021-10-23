@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0x1944&#39;s diary</title>
+    <link>http://0x1944.github.io/</link>
+    <description>Recent content on 0x1944&#39;s diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 0x1944</copyright>
+    <lastBuildDate>Sat, 23 Oct 2021 14:49:21 +0300</lastBuildDate><atom:link href="http://0x1944.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://0x1944.github.io/posts/test/</link>
+      <pubDate>Sat, 23 Oct 2021 14:49:21 +0300</pubDate>
+      
+      <guid>http://0x1944.github.io/posts/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://0x1944.github.io/about/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      
+      <guid>http://0x1944.github.io/about/</guid>
+      <description>Hakkımda</description>
+    </item>
+    
+  </channel>
+</rss>
